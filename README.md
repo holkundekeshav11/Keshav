@@ -314,46 +314,7 @@
 </div>
 </section>
 <!-- Client Testimonials -->
-<section class="py-24 px-container-mobile md:px-container-desktop bg-surface-container-low border-t border-white/5">
-<div class="max-w-7xl mx-auto">
-<h2 class="font-headline-md text-headline-md text-on-surface mb-12 text-center">What Clients Say</h2>
-<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-<div class="glass-panel p-8 rounded-xl flex flex-col">
-<div class="flex gap-1 mb-6 text-secondary">
-<span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span>
-</div>
-<p class="font-body-md text-body-md text-on-surface-variant mb-8 flex-1">"The editing completely transformed our campaign. Retention rates doubled and the visual storytelling was exactly what we needed."</p>
-<div class="flex items-center gap-4">
-<img alt="Client" class="w-12 h-12 rounded-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCAPzHTbU6GzNqb1GGiG1jFhthShExgLWPPPwI_GF243idb7BApcKnTpg4mcO68MO5-WTNLNWgZn9XGOHGaa-NPOFSO8chC3I-LEwNUqLSCPxvnAg0kwAgmyyTPQ-KeUsrKkbhAjklapgy6hZaA5P3dyUgKJ3twLxCuAmXR6EilEkg5tbOzGF_U0L4_TgQWW0MIorGOHjEKDHkoTZX4ISImAMZH-axrNxXEiAspNdQVzzeps1RHWOMQwdHDGJnVLqSHNtDWYlRE7cO4"/>
-<div>
-<h4 class="font-title-sm text-title-sm text-on-surface text-sm">James Chen</h4>
-<p class="font-label-caps text-label-caps text-on-surface-variant text-[10px]">Creative Director</p>
-</div>
-</div>
-</div>
-<div class="glass-panel p-8 rounded-xl flex flex-col">
-<div class="flex gap-1 mb-6 text-secondary">
-<span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span>
-</div>
-<p class="font-body-md text-body-md text-on-surface-variant mb-8 flex-1">"Incredible attention to detail and pacing. Always delivers ahead of schedule with cinematic precision."</p>
-<div class="flex items-center gap-4">
-<img alt="Client" class="w-12 h-12 rounded-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCtI7SStXTJT_GuNHCkliH6rA9rxNAQ3xixFXy0hzmEq_h_KcslrfT6rNGd9-bODOfLoEKVRJUT2Y0qhzkjVf8TwTwvKfhRiOnHz5P_7z_yxaDUd3VwJiTo81PesSd1Vw9TCMHXr47wn1LCLKDec2Nm4RsG1G8ERpNPYPI_fgMPgvY1wdlxxR2NgjdBe_-oGbogzdZ0wyvah2oKWk0ZnUbwyaeKmQqv4FO6LGdQaAvCp5Os1ABNgWE79SA904PErnAPdW2snlR6uPXS"/>
-<div>
-<h4 class="font-title-sm text-title-sm text-on-surface text-sm">Sarah Miller</h4>
-<p class="font-label-caps text-label-caps text-on-surface-variant text-[10px]">YouTube Creator</p>
-</div>
-</div>
-</div>
-<div class="glass-panel p-8 rounded-xl flex flex-col">
-<div class="flex gap-1 mb-6 text-secondary">
-<span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span>
-</div>
-<p class="font-body-md text-body-md text-on-surface-variant mb-8 flex-1">"A master at retaining attention. The short-form edits performed flawlessly across TikTok and IG Reels."</p>
-<div class="flex items-center gap-4">
-<img alt="Client" class="w-12 h-12 rounded-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAVcewIp2EfL938YLGndwas_8RMDAGUWe9XUKsL1daAy0tGDcdgZi-Y0b7N7u6ZV_-_DQajxRY-_Jw-aH9Q_o1gjluU1fX8ov1mZIuI-3nBizyIrayVuXsfU84Mg81h-QLMKzkRO-r38u8rCLBViNkMlDDGBR3MCiYHDkGOE6LsRQdW9_z5QaPqOTKK2rc00dWOgi-vHdImDO1ZYJx_KDQgtqJlNvThsCikbObtdnIvJhkA_RnrzTUsvtHRs2gKn5JnXJr6R-d04M4v"/>
-<div>
-<h4 class="font-title-sm text-title-sm text-on-surface text-sm">Marcus Johnson</h4>
-<p class="font-label-caps text-label-caps text-on-surface-variant text-[10px]">Marketing Head</p>
+
 </div>
 </div>
 </div>
