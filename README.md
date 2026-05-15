@@ -275,4 +275,214 @@
 </div>
 </div>
 <div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group">
-<div class="flex items-center justify-center w-10 h-10 rounded-full border-2 border-secondary bg-background shadow shrink-0 md:order-1 md:group-odd:-tra
+<div class="flex items-center justify-center w-10 h-10 rounded-full border-2 border-secondary bg-background shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2">
+<span class="font-label-caps text-label-caps text-secondary">2</span>
+</div>
+<div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] glass-panel p-6 rounded-xl">
+<h3 class="font-title-sm text-title-sm text-on-surface mb-2">Editing</h3>
+<p class="font-body-md text-body-md text-on-surface-variant text-sm">I get to work crafting the narrative, pacing, and visual style.</p>
+</div>
+</div>
+<div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group">
+<div class="flex items-center justify-center w-10 h-10 rounded-full border-2 border-secondary bg-background shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2">
+<span class="font-label-caps text-label-caps text-secondary">3</span>
+</div>
+<div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] glass-panel p-6 rounded-xl">
+<h3 class="font-title-sm text-title-sm text-on-surface mb-2">Review</h3>
+<p class="font-body-md text-body-md text-on-surface-variant text-sm">You review the draft and provide feedback for precise refinements.</p>
+</div>
+</div>
+<div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group">
+<div class="flex items-center justify-center w-10 h-10 rounded-full border-2 border-secondary bg-background shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2">
+<span class="font-label-caps text-label-caps text-secondary">4</span>
+</div>
+<div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] glass-panel p-6 rounded-xl">
+<h3 class="font-title-sm text-title-sm text-on-surface mb-2">Delivery</h3>
+<p class="font-body-md text-body-md text-on-surface-variant text-sm">Final polished assets are delivered in the optimal formats.</p>
+</div>
+</div>
+<div class="relative flex items-center justify-between md:justify-normal md:odd:flex-row-reverse group">
+<div class="flex items-center justify-center w-10 h-10 rounded-full border-2 border-secondary bg-background shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2">
+<span class="font-label-caps text-label-caps text-secondary">5</span>
+</div>
+<div class="w-[calc(100%-4rem)] md:w-[calc(50%-2.5rem)] glass-panel p-6 rounded-xl">
+<h3 class="font-title-sm text-title-sm text-on-surface mb-2">Optimization</h3>
+<p class="font-body-md text-body-md text-on-surface-variant text-sm">Analyzing performance and adjusting strategies for future content.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Client Testimonials -->
+<section class="py-24 px-container-mobile md:px-container-desktop bg-surface-container-low border-t border-white/5">
+<div class="max-w-7xl mx-auto">
+<h2 class="font-headline-md text-headline-md text-on-surface mb-12 text-center">What Clients Say</h2>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+<div class="glass-panel p-8 rounded-xl flex flex-col">
+<div class="flex gap-1 mb-6 text-secondary">
+<span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant mb-8 flex-1">"The editing completely transformed our campaign. Retention rates doubled and the visual storytelling was exactly what we needed."</p>
+<div class="flex items-center gap-4">
+<img alt="Client" class="w-12 h-12 rounded-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCAPzHTbU6GzNqb1GGiG1jFhthShExgLWPPPwI_GF243idb7BApcKnTpg4mcO68MO5-WTNLNWgZn9XGOHGaa-NPOFSO8chC3I-LEwNUqLSCPxvnAg0kwAgmyyTPQ-KeUsrKkbhAjklapgy6hZaA5P3dyUgKJ3twLxCuAmXR6EilEkg5tbOzGF_U0L4_TgQWW0MIorGOHjEKDHkoTZX4ISImAMZH-axrNxXEiAspNdQVzzeps1RHWOMQwdHDGJnVLqSHNtDWYlRE7cO4"/>
+<div>
+<h4 class="font-title-sm text-title-sm text-on-surface text-sm">James Chen</h4>
+<p class="font-label-caps text-label-caps text-on-surface-variant text-[10px]">Creative Director</p>
+</div>
+</div>
+</div>
+<div class="glass-panel p-8 rounded-xl flex flex-col">
+<div class="flex gap-1 mb-6 text-secondary">
+<span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant mb-8 flex-1">"Incredible attention to detail and pacing. Always delivers ahead of schedule with cinematic precision."</p>
+<div class="flex items-center gap-4">
+<img alt="Client" class="w-12 h-12 rounded-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuCtI7SStXTJT_GuNHCkliH6rA9rxNAQ3xixFXy0hzmEq_h_KcslrfT6rNGd9-bODOfLoEKVRJUT2Y0qhzkjVf8TwTwvKfhRiOnHz5P_7z_yxaDUd3VwJiTo81PesSd1Vw9TCMHXr47wn1LCLKDec2Nm4RsG1G8ERpNPYPI_fgMPgvY1wdlxxR2NgjdBe_-oGbogzdZ0wyvah2oKWk0ZnUbwyaeKmQqv4FO6LGdQaAvCp5Os1ABNgWE79SA904PErnAPdW2snlR6uPXS"/>
+<div>
+<h4 class="font-title-sm text-title-sm text-on-surface text-sm">Sarah Miller</h4>
+<p class="font-label-caps text-label-caps text-on-surface-variant text-[10px]">YouTube Creator</p>
+</div>
+</div>
+</div>
+<div class="glass-panel p-8 rounded-xl flex flex-col">
+<div class="flex gap-1 mb-6 text-secondary">
+<span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span><span class="material-symbols-outlined text-sm">star</span>
+</div>
+<p class="font-body-md text-body-md text-on-surface-variant mb-8 flex-1">"A master at retaining attention. The short-form edits performed flawlessly across TikTok and IG Reels."</p>
+<div class="flex items-center gap-4">
+<img alt="Client" class="w-12 h-12 rounded-full object-cover" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAVcewIp2EfL938YLGndwas_8RMDAGUWe9XUKsL1daAy0tGDcdgZi-Y0b7N7u6ZV_-_DQajxRY-_Jw-aH9Q_o1gjluU1fX8ov1mZIuI-3nBizyIrayVuXsfU84Mg81h-QLMKzkRO-r38u8rCLBViNkMlDDGBR3MCiYHDkGOE6LsRQdW9_z5QaPqOTKK2rc00dWOgi-vHdImDO1ZYJx_KDQgtqJlNvThsCikbObtdnIvJhkA_RnrzTUsvtHRs2gKn5JnXJr6R-d04M4v"/>
+<div>
+<h4 class="font-title-sm text-title-sm text-on-surface text-sm">Marcus Johnson</h4>
+<p class="font-label-caps text-label-caps text-on-surface-variant text-[10px]">Marketing Head</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Pricing Section -->
+<section class="py-12 px-container-mobile md:px-container-desktop border-t border-white/5">
+<div class="max-w-7xl mx-auto">
+<h2 class="font-headline-md text-headline-md text-on-surface mb-8 text-center">Pricing Plans</h2>
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+<!-- Plan 1 -->
+<div class="glass-panel p-6 rounded-xl flex flex-col border border-white/10 hover:border-secondary/50 transition-colors">
+<h3 class="font-title-sm text-title-sm text-on-surface mb-1 uppercase">Basic</h3>
+<p class="font-body-md text-body-md text-on-surface-variant text-sm mb-4">Perfect for simple cuts and standard edits.</p>
+<div class="mb-6">
+<span class="font-headline-md text-3xl text-on-surface">$500</span>
+<span class="font-body-md text-sm text-on-surface-variant">/project</span>
+</div>
+<ul class="space-y-2 mb-6 flex-1">
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Up to 5 min final video</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Basic color correction</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">1 Revision round</span></li>
+</ul>
+<button class="btn-primary w-full py-2.5 rounded-lg font-label-caps text-label-caps">Get Started</button>
+</div>
+<!-- Plan 2 -->
+<div class="glass-panel p-6 rounded-xl flex flex-col border border-secondary relative transform md:-translate-y-2 shadow-[0_0_30px_rgba(255,107,0,0.1)]">
+<div class="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 bg-secondary text-white px-3 py-1 rounded-full font-label-caps text-[10px] tracking-wider">POPULAR</div>
+<h3 class="font-title-sm text-title-sm text-on-surface mb-1 uppercase">Growth</h3>
+<p class="font-body-md text-body-md text-on-surface-variant text-sm mb-4">High-retention edits for social media growth.</p>
+<div class="mb-6">
+<span class="font-headline-md text-3xl text-on-surface">$1,200</span>
+<span class="font-body-md text-sm text-on-surface-variant">/project</span>
+</div>
+<ul class="space-y-2 mb-6 flex-1">
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Up to 15 min final video</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Advanced grading &amp; audio</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Motion graphics &amp; captions</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">3 Revision rounds</span></li>
+</ul>
+<button class="btn-primary w-full py-2.5 rounded-lg font-label-caps text-label-caps">Get Started</button>
+</div>
+<!-- Plan 3 -->
+<div class="glass-panel p-6 rounded-xl flex flex-col border border-white/10 hover:border-secondary/50 transition-colors">
+<h3 class="font-title-sm text-title-sm text-on-surface mb-1 uppercase">Premium</h3>
+<p class="font-body-md text-body-md text-on-surface-variant text-sm mb-4">Cinematic quality for commercials and brands.</p>
+<div class="mb-6">
+<span class="font-headline-md text-3xl text-on-surface">$2,500</span>
+<span class="font-body-md text-sm text-on-surface-variant">/project</span>
+</div>
+<ul class="space-y-2 mb-6 flex-1">
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Unlimited length (within reason)</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Cinematic sound design</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Custom VFX &amp; Animation</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Unlimited revisions</span></li>
+</ul>
+<button class="btn-primary w-full py-2.5 rounded-lg font-label-caps text-label-caps">Get Started</button>
+</div>
+<!-- Plan 4 -->
+<div class="glass-panel p-6 rounded-xl flex flex-col border border-white/10 hover:border-secondary/50 transition-colors">
+<h3 class="font-title-sm text-title-sm text-on-surface mb-1 uppercase">Retainer</h3>
+<p class="font-body-md text-body-md text-on-surface-variant text-sm mb-4">Ongoing monthly support for creators.</p>
+<div class="mb-6">
+<span class="font-headline-md text-3xl text-on-surface">Custom</span>
+</div>
+<ul class="space-y-2 mb-6 flex-1">
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Guaranteed monthly capacity</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Priority turnaround times</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Strategy consultation</span></li>
+<li class="flex items-start gap-3"><span class="material-symbols-outlined text-secondary text-sm mt-0.5">check</span><span class="font-body-md text-[13px] leading-tight text-on-surface-variant">Discounted volume rates</span></li>
+</ul>
+<button class="btn-primary w-full py-2.5 rounded-lg font-label-caps text-label-caps">Get Started</button>
+</div>
+</div>
+</div>
+</section>
+<!-- Contact Section -->
+<section class="py-24 px-container-mobile md:px-container-desktop bg-surface-container-low border-t border-white/5">
+<div class="max-w-5xl mx-auto">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
+<div>
+<h2 class="font-headline-md text-headline-md text-on-surface mb-6">Ready to Start?</h2>
+<p class="font-body-md text-body-md text-on-surface-variant mb-10">Fill out the form below or reach out directly through my social channels to discuss your next project.</p>
+<div class="flex flex-col gap-4">
+<button class="btn-ghost px-6 py-4 rounded-lg font-label-caps text-label-caps flex items-center justify-center gap-3 w-full sm:w-auto hover:border-secondary transition-colors text-left">
+<span class="material-symbols-outlined">chat</span> WhatsApp Message
+                    </button>
+<button class="btn-ghost px-6 py-4 rounded-lg font-label-caps text-label-caps flex items-center justify-center gap-3 w-full sm:w-auto hover:border-secondary transition-colors text-left">
+<span class="material-symbols-outlined">photo_camera</span> Direct on Instagram
+                    </button>
+<button class="btn-ghost px-6 py-4 rounded-lg font-label-caps text-label-caps flex items-center justify-center gap-3 w-full sm:w-auto hover:border-secondary transition-colors text-left">
+<span class="material-symbols-outlined">mail</span> Send an Email
+                    </button>
+</div>
+</div>
+<div class="glass-panel p-8 rounded-xl">
+<form class="space-y-6">
+<div>
+<label class="block font-label-caps text-label-caps text-on-surface-variant mb-2" for="name">Name</label>
+<input class="w-full bg-surface-variant/50 border border-white/10 rounded-lg px-4 py-3 text-on-surface focus:outline-none focus:border-secondary focus:ring-1 focus:ring-secondary transition-colors" id="name" placeholder="John Doe" type="text"/>
+</div>
+<div>
+<label class="block font-label-caps text-label-caps text-on-surface-variant mb-2" for="email">Email</label>
+<input class="w-full bg-surface-variant/50 border border-white/10 rounded-lg px-4 py-3 text-on-surface focus:outline-none focus:border-secondary focus:ring-1 focus:ring-secondary transition-colors" id="email" placeholder="john@example.com" type="email"/>
+</div>
+<div>
+<label class="block font-label-caps text-label-caps text-on-surface-variant mb-2" for="message">Project Details</label>
+<textarea class="w-full bg-surface-variant/50 border border-white/10 rounded-lg px-4 py-3 text-on-surface focus:outline-none focus:border-secondary focus:ring-1 focus:ring-secondary transition-colors" id="message" placeholder="Tell me about your footage..." rows="4"></textarea>
+</div>
+<button class="btn-primary w-full py-4 rounded-lg font-label-caps text-label-caps" type="button">Submit Inquiry</button>
+</form>
+</div>
+</div>
+</div>
+</section>
+<!-- Footer -->
+<footer class="bg-surface-container-lowest border-t border-white/5 grid grid-cols-1 md:grid-cols-2 gap-gutter px-container-desktop py-12 w-full">
+<div>
+<div class="font-headline-md text-headline-md text-on-surface mb-4 tracking-tighter">STUDIO.EDIT</div>
+<p class="font-label-caps text-label-caps text-on-surface-variant opacity-80">© 2024 STUDIO.EDIT. ALL RIGHTS RESERVED.</p>
+</div>
+<div class="flex flex-wrap gap-4 md:justify-end items-center">
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-secondary transition-colors opacity-80 hover:opacity-100" href="#">Instagram</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-secondary transition-colors opacity-80 hover:opacity-100" href="#">Vimeo</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-secondary transition-colors opacity-80 hover:opacity-100" href="#">LinkedIn</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-secondary transition-colors opacity-80 hover:opacity-100" href="#">Twitter</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-secondary transition-colors opacity-80 hover:opacity-100" href="#">Privacy Policy</a>
+<a class="font-label-caps text-label-caps text-on-surface-variant hover:text-secondary transition-colors opacity-80 hover:opacity-100" href="#">Terms</a>
+</div>
+</footer>
+</body></html>
